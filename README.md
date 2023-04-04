@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youkispy
-- 👀 I’m interested in anime andl starting to learn coding
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in anime and problem solving. I am also learning daily on how to code efficiently
+- 🌱 I’m currently learning C,java and python
 - 📫 Reach me at .in (@youkispy)
 
 <!---
